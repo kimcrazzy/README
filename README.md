@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#ff1494}\text{BYI}}$ ${\color{#ff5f94}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#b86431}\text{i do not friend anyone under 14 for personal reaons.}}$<br>
+      <td>${\color{#ff1494}\text{BYI}}$ ${\color{#ff5f94}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#ff5f94}\text{i do not friend anyone under 14 for personal reaons.}}$<br>
       </td>
     </tr>
   </table>
@@ -58,13 +58,13 @@
 
 
 
-$\color{#ff1494}{\text{'  Too late , my time has come  }}$ $\color{#b99b69}{\text{  Sends shivers down my spine,}}$
+$\color{#ff1494}{\text{'  Too late , my time has come  }}$ $\color{#ff5f94}{\text{  Sends shivers down my spine,}}$
 
-$\color{#ff5f94}{\text{body's aching all the time  }}$ $\color{#98412d}{\text{  Goodbye, everybody}}$
+$\color{#ffd4e5}{\text{body's aching all the time  }}$ $\color{#ff1494}{\text{  Goodbye, everybody}}$
 
-$\color{#ffd4e5}{\text{  I've got to go}}$
+$\color{#ff5f94}{\text{  I've got to go}}$
 
-$\color{#ff1494}{\text{  Gotta leave you all behind and face the truth  .}}$
+$\color{#ffd4e5}{\text{  Gotta leave you all behind and face the truth  .}}$
 
 
 
