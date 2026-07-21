@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=b86b24&style=flat&label=fansacrosstheunderground)
+![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=ff1494&style=flat&label=fansacrosstheunderground)
 
 
  
