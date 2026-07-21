@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=b86b24&style=flat&label=AlternateUniverses)
+![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=b86b24&style=flat&label=fansacrosstheunderground)
 
 
  
@@ -16,7 +16,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#b86b24}\text{kim or ink, i dont mind which!}}$ ${\color{#c19836}\text{they★﹏them , genderfluid (｡˙ヮ˙)}}$<br>${\color{#a0a847}\text{usually offtab or drawing, please w2i (⇀‸↼‶)}}$ ${\color{#86a6ac}\text{16 years old (╦̵̵﹏╦̵̵)}}$<br>
+      <td>${\color{#ff1494}\text{kim or ink, i dont mind which!}}$ ${\color{#ff5f94}\text{they★﹏them , genderfluid (｡˙ヮ˙)}}$<br>${\color{#ffd4e5}\text{usually offtab or drawing, please w2i (⇀‸↼‶)}}$ ${\color{#ff1494}\text{16 years old (╦̵̵﹏╦̵̵)}}$<br>
       </td>
     </tr>
   </table>
@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#c04162}\text{BYI}}$ ${\color{#8b4750}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#b86431}\text{i do not friend anyone under 14 for personal reaons.}}$<br>
+      <td>${\color{#ff1494}\text{BYI}}$ ${\color{#ff5f94}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#b86431}\text{i do not friend anyone under 14 for personal reaons.}}$<br>
       </td>
     </tr>
   </table>
@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#718891}\text{DNI}}$ ${\color{#6e2d2d}\text{basic dni criteria, Homophobic, Dark/Proshippers.}}$<br>${\color{#a8ac9c}\text{Pedophiles, And Weirdos in general}}$<br>
+      <td>${\color{#ff1494}\text{DNI}}$ ${\color{#ff5f94}\text{basic dni criteria, Homophobic, Dark/Proshippers.}}$<br>${\color{#ffd4e5}\text{Pedophiles, And Weirdos in general}}$<br>
       </td>
     </tr>
   </table>
@@ -58,13 +58,13 @@
 
 
 
-$\color{#c5aa7e}{\text{'  Too late , my time has come  }}$ $\color{#b99b69}{\text{  Sends shivers down my spine,}}$
+$\color{#ff1494}{\text{'  Too late , my time has come  }}$ $\color{#b99b69}{\text{  Sends shivers down my spine,}}$
 
-$\color{#a1572b}{\text{body's aching all the time  }}$ $\color{#98412d}{\text{  Goodbye, everybody}}$
+$\color{#ff5f94}{\text{body's aching all the time  }}$ $\color{#98412d}{\text{  Goodbye, everybody}}$
 
-$\color{#718891}{\text{  I've got to go}}$
+$\color{#ffd4e5}{\text{  I've got to go}}$
 
-$\color{#51403d}{\text{  Gotta leave you all behind and face the truth  .}}$
+$\color{#ff1494}{\text{  Gotta leave you all behind and face the truth  .}}$
 
 
 
