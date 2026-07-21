@@ -54,7 +54,9 @@
 ![](https://64.media.tumblr.com/0680c8ea27c3f9bde0c3bf930572dce6/2f5f16fcce2497b2-25/s400x600/46f26eca1c168d2a8688d13ea5623cc35b1ed8f5.gifv)
 
 
-
+ <p align="center">
+  <img src="https://magma.com/shared/dKbJwuVqXvNKUUQ-qnLzQj" alt="Alt Text" width="390" />
+</p>
 
 
 
@@ -66,9 +68,6 @@ $\color{#ff5f94}{\text{  Yeah, I'm dancing with your soul in my sights}}$
 
 $\color{#ffd4e5}{\text{  It's a showdown in the spotlight  .}}$
 
- <p align="center">
-  <img src="https://magma.com/shared/dKbJwuVqXvNKUUQ-qnLzQj" alt="Alt Text" width="390" />
-</p>
 
 
 
