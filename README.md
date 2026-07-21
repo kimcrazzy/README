@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#ff1494}\text{BYI}}$ ${\color{#ff5f94}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#ff5f94}\text{i do not friend anyone under 14 for personal reaons.}}$<br>
+      <td>${\color{#ff1494}\text{BYI}}$ ${\color{#ff5f94}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#ffd4e5}\text{i do not friend anyone under 14 for personal reaons.}}$<br>
       </td>
     </tr>
   </table>
