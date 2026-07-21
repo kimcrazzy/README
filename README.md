@@ -58,13 +58,13 @@
 
 
 
-$\color{#ff1494}{\text{'  Too late , my time has come  }}$ $\color{#ff5f94}{\text{  Sends shivers down my spine,}}$
+$\color{#ff1494}{\text{'  Darling, I can show you  }}$ $\color{#ff5f94}{\text{  where my love hides,}}$
 
-$\color{#ffd4e5}{\text{body's aching all the time  }}$ $\color{#ff1494}{\text{  Goodbye, everybody}}$
+$\color{#ffd4e5}{\text{It's a heart beat,  }}$ $\color{#ff1494}{\text{  on a hard drive}}$
 
-$\color{#ff5f94}{\text{  I've got to go}}$
+$\color{#ff5f94}{\text{  Yeah, I'm dancing with your soul in my sights}}$
 
-$\color{#ffd4e5}{\text{  Gotta leave you all behind and face the truth  .}}$
+$\color{#ffd4e5}{\text{  It's a showdown in the spotlight  .}}$
 
 
 
