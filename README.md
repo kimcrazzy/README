@@ -66,7 +66,9 @@ $\color{#ff5f94}{\text{  Yeah, I'm dancing with your soul in my sights}}$
 
 $\color{#ffd4e5}{\text{  It's a showdown in the spotlight  .}}$
 
-
+ <p align="center">
+  <img src="[https://magma.com/shared/MyHXFGpe83hVlXTHskEaFD](https://magma.com/shared/dKbJwuVqXvNKUUQ-qnLzQj)" alt="Alt Text" width="390" />
+</p>
 
 
 
